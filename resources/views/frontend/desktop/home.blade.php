@@ -74,7 +74,7 @@
 			<div class="row">
 				<div class="col-sm-12">
 					<a href="#">
-						<img src="images/banner/home1-banner3.jpg" alt="">
+						<img src="{{ asset('public/frontend/desktop/') }}images/banner/home1-banner3.jpg" alt="">
 					</a>
 				</div>
 			</div>
@@ -101,7 +101,7 @@
 									<div class="list-col4">
 										<div class="product-image">
 											<a href="#">
-												<img src="images/product/1.jpg" alt="">
+												<img src="{{ asset('public/frontend/desktop/') }}images/product/1.jpg" alt="">
 											</a>
 											<div class="quickviewbtn">
 												<a href="#" data-toggle="modal" data-target="#product_modal"
@@ -145,7 +145,7 @@
 									<div class="list-col4">
 										<div class="product-image">
 											<a href="#">
-												<img src="images/product/2.jpg" alt="">
+												<img src="{{ asset('public/frontend/desktop/') }}images/product/2.jpg" alt="">
 											</a>
 											<div class="quickviewbtn">
 												<a href="#" data-toggle="modal" data-target="#product_modal"
@@ -191,7 +191,7 @@
 									<div class="list-col4">
 										<div class="product-image">
 											<a href="#">
-												<img src="images/product/3.jpg" alt="">
+												<img src="{{ asset('public/frontend/desktop/') }}images/product/3.jpg" alt="">
 											</a>
 											<div class="quickviewbtn">
 												<a href="#" data-toggle="modal" data-target="#product_modal"
@@ -235,7 +235,7 @@
 									<div class="list-col4">
 										<div class="product-image">
 											<a href="#">
-												<img src="images/product/4.jpg" alt="">
+												<img src="{{ asset('public/frontend/desktop/') }}images/product/4.jpg" alt="">
 											</a>
 											<div class="quickviewbtn">
 												<a href="#" data-toggle="modal" data-target="#product_modal"
@@ -281,7 +281,7 @@
 									<div class="list-col4">
 										<div class="product-image">
 											<a href="#">
-												<img src="images/product/5.jpg" alt="">
+												<img src="{{ asset('public/frontend/desktop/') }}images/product/5.jpg" alt="">
 											</a>
 											<div class="quickviewbtn">
 												<a href="#" data-toggle="modal" data-target="#product_modal"
@@ -325,7 +325,7 @@
 									<div class="list-col4">
 										<div class="product-image">
 											<a href="#">
-												<img src="images/product/6.jpg" alt="">
+												<img src="{{ asset('public/frontend/desktop/images/product/6.jpg') }}" alt="">
 											</a>
 											<div class="quickviewbtn">
 												<a href="#" data-toggle="modal" data-target="#product_modal"
@@ -371,7 +371,7 @@
 									<div class="list-col4">
 										<div class="product-image">
 											<a href="#">
-												<img src="images/product/7.jpg" alt="">
+												<img src="{{ asset('public/frontend/desktop/images/product/7.jpg') }}" alt="">
 											</a>
 											<div class="quickviewbtn">
 												<a href="#" data-toggle="modal" data-target="#product_modal"
@@ -416,7 +416,7 @@
 										<div class="product-image">
 											<a href="#">
 												<span class="onsale">Sale!</span>
-												<img src="images/product/8.jpg" alt="">
+												<img src="{{ asset('public/frontend/desktop/images/product/8.jpg') }}" alt="">
 											</a>
 											<div class="quickviewbtn">
 												<a href="#" data-toggle="modal" data-target="#product_modal"
@@ -462,7 +462,7 @@
 									<div class="list-col4">
 										<div class="product-image">
 											<a href="#">
-												<img src="images/product/9.jpg" alt="">
+												<img src="{{ asset('public/frontend/desktop/images/product/9.jpg') }}" alt="">
 											</a>
 											<div class="quickviewbtn">
 												<a href="#" data-toggle="modal" data-target="#product_modal"
@@ -506,7 +506,7 @@
 									<div class="list-col4">
 										<div class="product-image">
 											<a href="#">
-												<img src="images/product/10.jpg" alt="">
+												<img src="{{ asset('public/frontend/desktop/images/product/10.jpg') }}" alt="">
 											</a>
 											<div class="quickviewbtn">
 												<a href="#" data-toggle="modal" data-target="#product_modal"
@@ -552,7 +552,7 @@
 									<div class="list-col4">
 										<div class="product-image">
 											<a href="#">
-												<img src="images/product/11.jpg" alt="">
+												<img src="{{ asset('public/frontend/desktop/images/product/11.jpg') }}" alt="">
 											</a>
 											<div class="quickviewbtn">
 												<a href="#" data-toggle="modal" data-target="#product_modal"
@@ -596,7 +596,7 @@
 									<div class="list-col4">
 										<div class="product-image">
 											<a href="#">
-												<img src="images/product/12.jpg" alt="">
+												<img src="{{ asset('public/frontend/desktop/images/product/12.jpg') }}" alt="">
 											</a>
 											<div class="quickviewbtn">
 												<a href="#" data-toggle="modal" data-target="#product_modal"
@@ -642,7 +642,7 @@
 									<div class="list-col4">
 										<div class="product-image">
 											<a href="#">
-												<img src="images/product/13.jpg" alt="">
+												<img src="{{ asset('public/frontend/desktop/images/product/13.jpg') }}" alt="">
 											</a>
 											<div class="quickviewbtn">
 												<a href="#" data-toggle="modal" data-target="#product_modal"
@@ -687,7 +687,7 @@
 										<div class="product-image">
 											<a href="#">
 												<span class="onsale">Sale!</span>
-												<img src="images/product/1.jpg" alt="">
+												<img src="{{ asset('public/frontend/desktop/images/product/1.jpg') }}" alt="">
 											</a>
 											<div class="quickviewbtn">
 												<a href="#" data-toggle="modal" data-target="#product_modal"
@@ -733,7 +733,7 @@
 									<div class="list-col4">
 										<div class="product-image">
 											<a href="#">
-												<img src="images/product/2.jpg" alt="">
+												<img src="{{ asset('public/frontend/desktop/images/product/2.jpg') }}" alt="">
 											</a>
 											<div class="quickviewbtn">
 												<a href="#" data-toggle="modal" data-target="#product_modal"
@@ -777,7 +777,7 @@
 									<div class="list-col4">
 										<div class="product-image">
 											<a href="#">
-												<img src="images/product/3.jpg" alt="">
+												<img src="{{ asset('public/frontend/desktop/images/product/3.jpg') }}" alt="">
 											</a>
 											<div class="quickviewbtn">
 												<a href="#" data-toggle="modal" data-target="#product_modal"
@@ -830,52 +830,62 @@
 					<div class="brand-carousel-active owl-carousel">
 						<!-- single brand logo -->
 						<div class="brand-logo">
-							<a href="#"><img src="images/brand/brand1.jpg" alt="Brand logo"></a>
+							<a href="#"><img src="{{ asset('public/frontend/desktop/images/brand/brand1.jpg') }}"
+												  alt="Brand logo"></a>
 						</div>
 						<!-- single brand logo end -->
 						<!-- single brand logo -->
 						<div class="brand-logo">
-							<a href="#"><img src="images/brand/brand2.jpg" alt="Brand logo"></a>
+							<a href="#"><img src="{{ asset('public/frontend/desktop/images/brand/brand2.jpg') }}"
+												  alt="Brand logo"></a>
 						</div>
 						<!-- single brand logo end -->
 						<!-- single brand logo -->
 						<div class="brand-logo">
-							<a href="#"><img src="images/brand/brand3.jpg" alt="Brand logo"></a>
+							<a href="#"><img src="{{ asset('public/frontend/desktop/images/brand/brand3.jpg') }}"
+												  alt="Brand logo"></a>
 						</div>
 						<!-- single brand logo end -->
 						<!-- single brand logo -->
 						<div class="brand-logo">
-							<a href="#"><img src="images/brand/brand4.jpg" alt="Brand logo"></a>
+							<a href="#"><img src="{{ asset('public/frontend/desktop/images/brand/brand4.jpg') }}"
+												  alt="Brand logo"></a>
 						</div>
 						<!-- single brand logo end -->
 						<!-- single brand logo -->
 						<div class="brand-logo">
-							<a href="#"><img src="images/brand/brand5.jpg" alt="Brand logo"></a>
+							<a href="#"><img src="{{ asset('public/frontend/desktop/images/brand/brand5.jpg') }}"
+												  alt="Brand logo"></a>
 						</div>
 						<!-- single brand logo end -->
 						<!-- single brand logo -->
 						<div class="brand-logo">
-							<a href="#"><img src="images/brand/brand6.jpg" alt="Brand logo"></a>
+							<a href="#"><img src="{{ asset('public/frontend/desktop/images/brand/brand6.jpg') }}"
+												  alt="Brand logo"></a>
 						</div>
 						<!-- single brand logo end -->
 						<!-- single brand logo -->
 						<div class="brand-logo">
-							<a href="#"><img src="images/brand/brand7.jpg" alt="Brand logo"></a>
+							<a href="#"><img src="{{ asset('public/frontend/desktop/images/brand/brand7.jpg') }}"
+												  alt="Brand logo"></a>
 						</div>
 						<!-- single brand logo end -->
 						<!-- single brand logo -->
 						<div class="brand-logo">
-							<a href="#"><img src="images/brand/brand8.jpg" alt="Brand logo"></a>
+							<a href="#"><img src="{{ asset('public/frontend/desktop/images/brand/brand8.jpg') }}"
+												  alt="Brand logo"></a>
 						</div>
 						<!-- single brand logo end -->
 						<!-- single brand logo -->
 						<div class="brand-logo">
-							<a href="#"><img src="images/brand/brand9.jpg" alt="Brand logo"></a>
+							<a href="#"><img src="{{ asset('public/frontend/desktop/images/brand/brand9.jpg') }}"
+												  alt="Brand logo"></a>
 						</div>
 						<!-- single brand logo end -->
 						<!-- single brand logo -->
 						<div class="brand-logo">
-							<a href="#"><img src="images/brand/brand1.jpg" alt="Brand logo"></a>
+							<a href="#"><img src="{{ asset('public/frontend/desktop/images/brand/brand1.jpg') }}"
+												  alt="Brand logo"></a>
 						</div>
 						<!-- single brand logo end -->
 					</div>
